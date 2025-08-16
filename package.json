@@ -1,0 +1,16 @@
+{
+  "name": "com.rimu.boxcc",
+  "version": "1.0.0",
+  "displayName": "Box Character Controller",
+  "description": "A custom character controller package for creating reliable player movement and interactions using a Box2D Collider.",
+  "unity": "2021.3",
+  "keywords": [
+    "character controller",
+    "package"
+  ],
+  "author": {
+    "name": "Rimu",
+    "email": "kwj69641@gmail.com",
+    "url": "http://www.mycompany.com"
+  }
+}
